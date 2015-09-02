@@ -12,7 +12,7 @@ The diet is counter intuitive.  It goes against many of the things you've been t
 * Portion sizes not so important
 * Eat fat
 * Eat red meat
-* Lot fat foods are actually bad on this diet
+* Low fat foods are actually bad on this diet
 * Exercise not required
 
 ## benefits in a nutshell
